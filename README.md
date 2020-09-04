@@ -7,6 +7,7 @@ Software Engineer @[LG Electronics](https://www.lge.co.kr/)
 - Embedded System
 - Statistics
 - Reinforcement Learning
+- Education
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://goodboychan.github.io/chans_jupyter/)](https://goodboychan.github.io/chans_jupyter/)
 [![Tech Blog Badge1](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=internetarchive&link=https://talkingaboutme.tistory.com/)](https://talkingaboutme.tistory.com/)
@@ -20,12 +21,12 @@ Software Engineer @[LG Electronics](https://www.lge.co.kr/)
 
 #### Talks
 
-- Reinforcement Learining from scratch, Software Engineer's Energizing Day (SEED) by LG Electronics, 2018 July [Press](https://live.lge.co.kr/seed2018/) 
+- Reinforcement Learining from scratch, Software Engineer's Energizing Day (SEED) by LG Electronics, 2018 July ([Press](https://live.lge.co.kr/seed2018/))
 - Basic NUI Programming with Microsoft Kinect, University of Seoul, 2012 October
 
 #### Honors & Awards
 
-- AI Specialist, LG Electronics, 2019 [Press](https://live.lge.co.kr/lg_ai_specialist_1020/)
+- AI Specialist, LG Electronics, 2019 ([Press](https://live.lge.co.kr/lg_ai_specialist_1020/))
 - Semi-Finalist at Imagine Cup Kinect Fun Lab, 2012
 - Excellent Researcher Award, Ulsan National Institute of Science and Technology, 2011
 - Excellent Teaching Assistant Award, Chung-Ang University, 2011
