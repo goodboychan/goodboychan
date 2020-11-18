@@ -17,12 +17,14 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 #### Publications
 
 - NuPow: Managing Power on NUMA Multiprocessors with Domain-Level Voltage and Frequency Control, Changmin Ahn, Seunghyul Lee, **Chanseok Kang**, and Bernhard Egger, 17th International Conference on the Economics of Grids, Clouds, Systems and Services (GECON), September 2020. ([paper](https://csap.snu.ac.kr/sites/default/files/papers/2020.GECON.Ahn.NuPow.Managing%20Power%20on%20NUMA%20Multiprocessors%20with%20Domain-Level%20Voltage%20and%20Frequency%20Control.pdf))
+- Machine Learning with Tensorflow (Korean version (namely 텐서플로를 활용한 머신러닝) - Reviewer), Hanbit media, Feb 2019. ([Book](https://www.hanbit.co.kr/store/books/look.php?p_code=B8108682495))
 - Scheduling for Better Energy Efficiency on Many-core Chips, **Chanseok Kang**, Seungyul Lee, Yong-Jun Lee, Jaejin Lee, and Bernhard Egger, 19th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP), Hyderabad, India, May 2015. ([paper](http://www.cs.huji.ac.il/~feit/parsched/jsspp15/p6-kang.pdf))
 
 #### Talks
 
-- Reinforcement Learining from scratch, Software Engineer's Energizing Day (SEED) by LG Electronics, 2018 July ([Press](https://live.lge.co.kr/seed2018/))
-- Basic NUI Programming with Microsoft Kinect, University of Seoul, 2012 October
+- Reinforcement Learining from scratch (revisited), LG Innotek SW Day, hosted by LG Innotek, November 2020. 
+- Reinforcement Learining from scratch, Software Engineer's Energizing Day (SEED), hosted by LG Electronics, July 2018. ([Press](https://live.lge.co.kr/seed2018/))
+- Basic NUI Programming with Microsoft Kinect, University of Seoul, October 2012. 
 
 #### Honors & Awards
 
