@@ -26,6 +26,7 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 - Reinforcement Learining from scratch, Software Engineer's Energizing Day (SEED), hosted by LG Electronics, July 2018. ([Press](https://live.lge.co.kr/seed2018/))
 - Basic NUI Programming with Microsoft Kinect, University of Seoul, October 2012. 
 
+
 #### Honors & Awards
 
 - AI Specialist, LG Electronics, 2019 ([Press](https://live.lge.co.kr/lg_ai_specialist_1020/))
