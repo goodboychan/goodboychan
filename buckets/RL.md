@@ -83,16 +83,25 @@
   - Author: Csaba Szepesvári
   - Date: 2010
   - Available: [paperback](https://www.amazon.com/Algorithms-Reinforcement-Synthesis-Artificial-Intelligence/dp/1608454924/ref=sr_1_1?crid=2YJMH26UCRJA&keywords=algorithms+for+reinforcement+learning&qid=1584404766&sprefix=reinforcement+learning+alg%2Caps%2C190&sr=8-1), [E-book](http://www.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
-  - [Companion site](https://sites.ualberta.ca/~szepesva/rlbook.html)
+  - [Companion site](https://sites.ualberta.ca/~szepesva/rlbook.html) (free)
 
-![RLBook4](image/rl_bandit-book.jpg)
+![RLBook4](image/rl_bandit-book.png)
 
 - Bandit Algorithms
 
   - Author: Tor Lattimore, Csaba Szepesvári
   - Date: 2020
-  - Available: [paperback](https://www.amazon.com/Bandit-Algorithms-Tor-Lattimore/dp/1108486827/ref=sr_1_1?crid=1BTQW5VTQVYJ4&keywords=bandit+algorithms&qid=1584405645&sprefix=bandit+alg%2Caps%2C193&sr=8-1), [E-book](https://tor-lattimore.com/downloads/book/book.pdf)
+  - Available: [paperback](https://www.amazon.com/Bandit-Algorithms-Tor-Lattimore/dp/1108486827/ref=sr_1_1?crid=1BTQW5VTQVYJ4&keywords=bandit+algorithms&qid=1584405645&sprefix=bandit+alg%2Caps%2C193&sr=8-1), [E-book](https://tor-lattimore.com/downloads/book/book.pdf) (free)
   - [Companion site](https://banditalgs.com/)
+
+![RLBook5](image/rl_grokking_deep_reinforcement_learning.jpg)
+
+- Grokking Deep Reinforcement Learning
+
+  - Author: Miguel Morales
+  - Date: 2020
+  - Available: [paperback](https://www.amazon.com/Grokking-Reinforcement-Learning-Miguel-Morales/dp/1617295450), [E-book](https://www.manning.com/books/grokking-deep-reinforcement-learning)
+  - Examples: [github](https://github.com/mimoralea/gdrl)
 
 ## Web resources
 
