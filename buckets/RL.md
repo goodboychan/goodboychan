@@ -2,75 +2,52 @@
 
 ## Lectures
 
-### Free
-
 - Introduction to Reinforcement Learning
 
   - Instructor: Prof. David Silver (UCL)
-
   - Date: 2015
-
   - Playlist: [Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-
   - Additional
-
     - [Site](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver): slides, video available
-
   - Comments
 
 - Reinforcement Learning Lecture Series 2018
 
   - Instructor: Hado van hasselt (Google DeepMind)
-
   - Date: 2018
-
   - Additional
-
     - [site](https://deepmind.com/learning-resources/reinforcement-learning-lectures-series-2018): video available
 
 - CS234: Reinforcement Learning
 
   - Instructor: Prof. Emma Brunskill (Stanford)
-
+  - Date: up to date
   - Playlist: [Youtube](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLRQmQC3wIq9yxKVK1qc0r2nPuInn92LmK) (Winter 2019)
-
   - Additional
-
     - [site](http://web.stanford.edu/class/cs234/index.html): slides, assignment available
-
   - Comments
 
 - CS285: Deep Reinforcement Learning
 
   - Instructor: Prof. Sergey Levine (UC Berkeley)
-  
+  - Date: up to date
   - Playlist: [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) (Fall 2020)
-
   - Additional
-
     - [site](http://rail.eecs.berkeley.edu/deeprlcourse/): slides, assignment available
 
 - Reinforcement Learning and Optimal Control
 
   - Instructor: Prof. Dimitri P. Bertsekas (MIT)
-
   - Additional:
     - [site](http://www.mit.edu/~dimitrib/RLbook.html): slides, video available
-
     - has companion book (Reinforcement learning and optimal control)
-
-### Paid
 
 - Reinforcement Learning Specialization
 
   - Instructor: Martha White & Adam White  (University of Alberta)
-
   - Additional:
-
     - [site](https://www.coursera.org/specializations/reinforcement-learning): video and assignment available
-
     - Consists of three lectures & Capstone project
-
       - Fundamentals of Reinforcement Learning
       - Sample-based Learning Methods
       - Predictions and Control with Function Approximation
@@ -84,12 +61,9 @@
 
 - Reinforcement Learning: An Introduction (2nd edition)
 
-  - Author: Andrew Barto and Richard S. Sutton 
-
+  - Author: Andrew Barto and Richard S. Sutton
   - Date: 2018
-
   - Available: [paperback](https://www.amazon.com/Reinforcement-Learning-second-Introduction-Computation-ebook/dp/B08BSYL7R1/ref=sr_1_1?crid=3OW7CUSIDARPR&dchild=1&keywords=reinforcement+learning+an+introduction&qid=1607692789&s=digital-text&sprefix=reinforcement+learning+an%2Cdigital-text%2C336&sr=1-1), [E-book](http://incompleteideas.net/book/RLbook2020.pdf) (free)
-  
   - Comments
     - Base reference book in reinforcement learning
     - Companion lecture on Coursera
@@ -142,3 +116,17 @@
   - Date: 2018
   - Additional
     - [site](http://videolectures.net/DLRLsummerschool2018_toronto/?fbclid=IwAR1xJ7syvTAtR4bTYVR-uMVJ7pP2XU9l22S7h1D_OODrpWrpw7aJWkJSVdA): slides, video available
+
+- OpenAI Spinning Up
+
+  - Organization: Josh Achiam (OpenAI)
+  - Date: up to date
+  - Additional
+    - [site](https://spinningup.openai.com/en/latest/#): reading, assignment available
+
+- Reinforcement Learning Day 2019
+
+  - Organization: Microsoft Research
+  - Date: Oct. 2019
+  - Additional
+    - [site](https://www.microsoft.com/en-us/research/event/reinforcement-learning-day-2019/): slides, video available
