@@ -33,6 +33,13 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 - Semi-Finalist at Imagine Cup Kinect Fun Lab, 2012
 - Excellent Researcher Award, Ulsan National Institute of Science and Technology, 2011
 - Excellent Teaching Assistant Award, Chung-Ang University, 2011
+
+#### Selective Research resources
+
+- Machine Learning
+- Deep Learning
+- [Reinforcement Learning](https://github.com/goodboychan/goodboychan/blob/master/buckets/RL.md)
+
  
 <!--
 **goodboychan/goodboychan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
