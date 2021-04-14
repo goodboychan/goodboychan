@@ -9,7 +9,7 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 - Reinforcement Learning
 - Education
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://goodboychan.github.io/chans_jupyter/)](https://goodboychan.github.io/chans_jupyter/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://goodboychan.github.io/chans_jupyter/)](https://goodboychan.github.io/)
 [![Tech Blog Badge1](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&link=https://talkingaboutme.tistory.com/)](https://talkingaboutme.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanseokk/)](https://www.linkedin.com/in/chanseokk/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcsgoodboy@gmail.com)](mailto:kcsgoodboy@gmail.com)
