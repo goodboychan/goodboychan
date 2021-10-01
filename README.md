@@ -22,8 +22,8 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 
 #### Talks
 
-- Reinforcement Learining from scratch (revisited), LG Innotek SW Day, hosted by LG Innotek, November 2020. 
-- Reinforcement Learining from scratch, Software Engineer's Energizing Day (SEED), hosted by LG Electronics, July 2018. ([Press](https://live.lge.co.kr/seed2018/))
+- Reinforcement Learning from scratch (revisited), LG Innotek SW Day, hosted by LG Innotek, November 2020. 
+- Reinforcement Learning from scratch, Software Engineer's Energizing Day (SEED), hosted by LG Electronics, July 2018. ([Press](https://live.lge.co.kr/seed2018/))
 - Basic NUI Programming with Microsoft Kinect, University of Seoul, October 2012. 
 
 
