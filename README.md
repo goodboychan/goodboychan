@@ -15,9 +15,9 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcsgoodboy@gmail.com)](mailto:kcsgoodboy@gmail.com)
 
 #### Publications
-- Grokking Deep Reinforcement Learning (Korean version (namely 그로킹 심층 강화학습)), Hanbit media, October 2021.
+- Grokking Deep Reinforcement Learning (Korean version (namely 그로킹 심층 강화학습)), Hanbit media, October 2021. ([Book](https://hanbit.co.kr/store/books/look.php?p_code=B8984169041))
 - NuPow: Managing Power on NUMA Multiprocessors with Domain-Level Voltage and Frequency Control, Changmin Ahn, Seungryul Lee, **Chanseok Kang**, and Bernhard Egger, 17th International Conference on the Economics of Grids, Clouds, Systems and Services (GECON), September 2020. ([paper](https://csap.snu.ac.kr/sites/default/files/papers/2020.GECON.Ahn.NuPow.Managing%20Power%20on%20NUMA%20Multiprocessors%20with%20Domain-Level%20Voltage%20and%20Frequency%20Control.pdf))
-- Machine Learning with Tensorflow (Korean version (namely 텐서플로를 활용한 머신러닝) - Reviewer), Hanbit media, Feb 2019. ([Book](https://www.hanbit.co.kr/store/books/look.php?p_code=B8108682495))
+- Machine Learning with Tensorflow (Korean version (namely 텐서플로를 활용한 머신러닝) - Reviewer), Hanbit media, February 2019. ([Book](https://www.hanbit.co.kr/store/books/look.php?p_code=B8108682495))
 - Scheduling for Better Energy Efficiency on Many-core Chips, **Chanseok Kang**, Seungyul Lee, Yong-Jun Lee, Jaejin Lee, and Bernhard Egger, 19th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP), Hyderabad, India, May 2015. ([paper](http://www.cs.huji.ac.il/~feit/parsched/jsspp15/p6-kang.pdf))
 
 #### Talks
