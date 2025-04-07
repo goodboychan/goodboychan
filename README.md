@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoodboychan&count_bg=%233D81C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 
 - Embedded System
@@ -15,6 +13,8 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcsgoodboy@gmail.com)](mailto:kcsgoodboy@gmail.com)
 
 #### Publications
+- Data-Driven Reinforcement Learning for Optimal Motor Control in Washing Machines, **Chanseok Kang**, Guntae Bae, Daesung Kim, Kyoungwoo Lee, Dohyeon Son, Chul Lee, Jaeho Lee, Jinwoo Lee, Jae Woong Yun, 2024 IEEE Conference on Artificial Intelligence (CAI), 2024 ([paper](https://ieeexplore.ieee.org/abstract/document/10605463))
+- 실물 환경에서의 데이터 기반 강화학습 적용 방안, **강찬석**, 2024 전자공학회지 51 (5) ([paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11799172))
 - Grokking Deep Reinforcement Learning (Korean version (namely 그로킹 심층 강화학습)), Hanbit media, October 2021. ([Book](https://hanbit.co.kr/store/books/look.php?p_code=B8984169041))
 - NuPow: Managing Power on NUMA Multiprocessors with Domain-Level Voltage and Frequency Control, Changmin Ahn, Seungryul Lee, **Chanseok Kang**, and Bernhard Egger, 17th International Conference on the Economics of Grids, Clouds, Systems and Services (GECON), September 2020. ([paper](https://csap.snu.ac.kr/sites/default/files/papers/2020.GECON.Ahn.NuPow.Managing%20Power%20on%20NUMA%20Multiprocessors%20with%20Domain-Level%20Voltage%20and%20Frequency%20Control.pdf))
 - Machine Learning with Tensorflow (Korean version (namely 텐서플로를 활용한 머신러닝) - Reviewer), Hanbit media, February 2019. ([Book](https://www.hanbit.co.kr/store/books/look.php?p_code=B8108682495))
