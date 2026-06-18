@@ -14,6 +14,7 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcsgoodboy@gmail.com)](mailto:kcsgoodboy@gmail.com)
 
 #### Publications
+
 - Decoupling Task Inference in Offline Meta-RL, **Chanseok Kang**, Jinwoo Lee, Guntae Bae, Reinforcement Learning Conference (RLC) 2026 Workshop: Automated RL (AutoRL) (To be appeared) 
 - Sensor-Based Reward Learning from Video Labels for Tumble Motion Control in Household Dryer, Jinwoo Lee, **Chanseok Kang**, Guntae Bae, 2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE), 2026 (To be appeared)
 - Data-Driven Reinforcement Learning for Optimal Motor Control in Washing Machines, **Chanseok Kang**, Guntae Bae, Daesung Kim, Kyoungwoo Lee, Dohyeon Son, Chul Lee, Jaeho Lee, Jinwoo Lee, Jae Woong Yun, 2024 IEEE Conference on Artificial Intelligence (CAI), 2024 ([paper](https://ieeexplore.ieee.org/abstract/document/10605463))
@@ -25,6 +26,9 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 
 #### Talks
 
+- Open Mentoring Session, LG Software Developer Conference (SDC), hosted by LG Electronics, September 2025
+- 실물 환경에서의 데이터 기반 강화학습 적용 방안, SNU CSE ComSee, hosted by Student Association of Seoul National University’s Department of Computer Science and Engineering, September 2024
+- Improving Model Performance with Real‑World Data in Washing Machine, LG Software Developer Conference (SDC), hosted by LG Electronics, November 2022. ([Press](https://blog.naver.com/lgelectronics-kr/223834100738))
 - Reinforcement Learning from scratch (revisited), LG Innotek SW Day, hosted by LG Innotek, November 2020. 
 - Reinforcement Learning from scratch, Software Engineer's Energizing Day (SEED), hosted by LG Electronics, July 2018. ([Press](https://live.lge.co.kr/seed2018/))
 - Basic NUI Programming with Microsoft Kinect, University of Seoul, October 2012. 
@@ -32,6 +36,7 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 
 #### Honors & Awards
 
+- Excellent Academic Book - Grokking Reinforcement Learning, National Academy of Sciences, 2022
 - AI Specialist, LG Electronics, 2019 ([Press](https://live.lge.co.kr/lg_ai_specialist_1020/))
 - Semi-Finalist at Imagine Cup Kinect Fun Lab, 2012
 - Excellent Researcher Award, Ulsan National Institute of Science and Technology, 2011
