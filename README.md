@@ -7,12 +7,15 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 - Reinforcement Learning
 - Education
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kcsgoodboy.github.io/)](https://kcsgoodboy.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://goodboychan.github.io/chans_jupyter/)](https://goodboychan.github.io/)
 [![Tech Blog Badge1](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&link=https://talkingaboutme.tistory.com/)](https://talkingaboutme.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanseokk/)](https://www.linkedin.com/in/chanseokk/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcsgoodboy@gmail.com)](mailto:kcsgoodboy@gmail.com)
 
 #### Publications
+- Decoupling Task Inference in Offline Meta-RL, **Chanseok Kang**, Jinwoo Lee, Guntae Bae, Reinforcement Learning Conference (RLC) 2026 Workshop: Automated RL (AutoRL) (To be appeared) 
+- Sensor-Based Reward Learning from Video Labels for Tumble Motion Control in Household Dryer, Jinwoo Lee, **Chanseok Kang**, Guntae Bae, 2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE), 2026 (To be appeared)
 - Data-Driven Reinforcement Learning for Optimal Motor Control in Washing Machines, **Chanseok Kang**, Guntae Bae, Daesung Kim, Kyoungwoo Lee, Dohyeon Son, Chul Lee, Jaeho Lee, Jinwoo Lee, Jae Woong Yun, 2024 IEEE Conference on Artificial Intelligence (CAI), 2024 ([paper](https://ieeexplore.ieee.org/abstract/document/10605463))
 - 실물 환경에서의 데이터 기반 강화학습 적용 방안, **강찬석**, 2024 전자공학회지 51 (5) ([paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11799172))
 - Grokking Deep Reinforcement Learning (Korean version (namely 그로킹 심층 강화학습)), Hanbit media, October 2021. ([Book](https://hanbit.co.kr/store/books/look.php?p_code=B8984169041))
