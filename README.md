@@ -15,7 +15,6 @@ Software Engineer @ [LG Electronics](https://www.lge.co.kr/)
 
 #### Publications
 - When Reward and Safety Need Different Model Horizons: A Selection Theorem for Pessimistic Offline Planning, **Chanseok Kang**, Reinforcement Learning Conference (RLC) 2026 Workshop: Model-based RL in the Era of Generative World Models (WMW), 2026. (To be appeared)
-- Decoupling Task Inference in Offline Meta-RL, **Chanseok Kang**, Jinwoo Lee, Guntae Bae, Reinforcement Learning Conference (RLC) 2026 Workshop: Automated RL (AutoRL), 2026 (To be appeared) 
 - Sensor-Based Reward Learning from Video Labels for Tumble Motion Control in Household Dryer, Jinwoo Lee, **Chanseok Kang**, Guntae Bae, 2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE), 2026 (To be appeared)
 - Data-Driven Reinforcement Learning for Optimal Motor Control in Washing Machines, **Chanseok Kang**, Guntae Bae, Daesung Kim, Kyoungwoo Lee, Dohyeon Son, Chul Lee, Jaeho Lee, Jinwoo Lee, Jae Woong Yun, 2024 IEEE Conference on Artificial Intelligence (CAI), 2024 ([paper](https://ieeexplore.ieee.org/abstract/document/10605463))
 - 실물 환경에서의 데이터 기반 강화학습 적용 방안, **강찬석**, 2024 전자공학회지 51 (5) ([paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11799172))
